@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 soy Gio c:</h1>
-<h3 align="center">Un DevFullStack apasionado de México</h3>
+<h3 align="center">Un desarrollador mexicano que intenta ser FullStack c:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gio-olmedo&label=Profile%20views&color=0e75b6&style=flat" alt="gio-olmedo" /> </p>
 
