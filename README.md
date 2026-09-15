@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gio-olmedo&label=Profile%20views&color=0e75b6&style=flat" alt="gio-olmedo" /> </p>
 
-- 🔭 Actualmente trabajo en -> **Legux Systems**
+- 🔭 Actualmente trabajo en -> **PABS Mexicali**
 
-- 💬 Pregúntame acerca de -> **Java o POO**
+- 💬 Pregúntame acerca de -> **NestJS o Laravel**
 
 - 📫 Puedes mandarme un mail a -> **giovanni.ob120@gmail.com**
 
